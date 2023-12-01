@@ -24,7 +24,7 @@ This is a solution to the QR code component challenge on Frontend Mentor. Fronte
 ### Links
 
 - [Solution URL](https://github.com/your-username/your-repo)
-- [Live Site URL](https://your-username.github.io/your-repo/)
+- [Live Site URL](https://bhargava999.github.io/qr-code-component-main/)
 
 ## My process
 
